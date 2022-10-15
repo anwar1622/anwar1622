@@ -15,6 +15,14 @@
 
 - ⚡ Fun fact **watch movies a lot like a lots.**
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/anwar1622">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwar1622&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anwar1622&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
